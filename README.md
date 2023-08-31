@@ -1,5 +1,4 @@
 # Food-Snap
-FOOD SNAP | A food image classification model
-• beats the baseline from original Food101 paper with 50.76on 101
-classes with 10
+• beats the baseline from original Food101 paper with 50.76% accuracy
+on 101 classes with 10% of the training data
 • Used an EfficientNet Model with transferlearning
